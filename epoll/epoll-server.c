@@ -81,7 +81,7 @@ create_and_bind (char *port)
 }
 
 int
-startServer (char *port][)
+startServer (char *port)
 {
   int sfd, s;
   int efd;
